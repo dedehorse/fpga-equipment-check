@@ -1,0 +1,14 @@
+{
+  "archive": "D:\\Dekstop\\fpga\\submission_2026\\EquipmentCheck_Formal_20261103.rar",
+  "bytes": 23275353,
+  "MiB": 22.2,
+  "sha256": "91217e756792081feb58ec049215644e93f082b3d486f7b0274d50cf91fb0f8b",
+  "RAR5_magic": "PASS",
+  "RAR_integrity_test": "PASS",
+  "independent_7zip_extract": "PASS",
+  "all_extracted_files_sha256": "PASS",
+  "source_file_count": 1551,
+  "under200MB": true,
+  "submitted_to_website": false,
+  "board_downloaded": false
+}
